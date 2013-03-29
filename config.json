@@ -1,0 +1,11 @@
+{
+	"host_map": [
+		"$.xkcd.com => www.xkcd.com",
+		"$.xkcd.com => xkcd.com",
+		"$.imgs.xkcd.com => imgs.xkcd.com",
+		"$.what-if.xkcd.com => what-if.xkcd.com",
+		"$.blag.xkcd.com => blag.xkcd.com",
+		"$.store.xkcd.com => store.xkcd.com",
+		"$.dynamic.xkcd.com => dynamic.xkcd.com"
+	]
+}
