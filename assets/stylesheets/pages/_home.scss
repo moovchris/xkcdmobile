@@ -1,5 +1,13 @@
-// Every page should have a class on the body
-// Scope that in each file at the start
-._home {
-  
+body.mw_home {
+	width: auto !important;
+	margin-left: 0;
+	text-align: left;
+	left: 0 !important;
+	position: static;
+	img {
+		width: 100%;
+	}
+	ul {
+		text-align: center;
+	}
 }
